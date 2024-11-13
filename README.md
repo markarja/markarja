@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-As a Senior Architect at Fluido, I help some of the best organisations in the Nordic region to succeed 📈 with their eCommerce, Customer Service, CRM and Marketing Automation initiatives using the Salesforce platform and related technologies, both locally and globally 🌍
+As a Senior Architect, I help some of the best organisations in the Nordic region to succeed 📈 with their eCommerce, Customer Service, CRM and Marketing Automation initiatives using the Salesforce platform and related technologies, both locally and globally 🌍
 
 With over 20 years of experience, I have solid knowledge of several programming languages and technology platforms, including Force.com, Salesforce B2C Commerce Cloud (ex. Demandware), Heroku.com, Salesforce Marketing Cloud (ex. ExactTarget), Oracle WebLogic, Apache and Microsoft® IIS 👨🏻‍💻
 
